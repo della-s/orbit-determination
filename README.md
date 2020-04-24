@@ -1,2 +1,2 @@
 # ssp18
-orbital determination for near-Earth asteroid 1627 Ivar
+Orbit determination for 1627 Ivar using the Gaussian Method, Summer Science Program 2018
